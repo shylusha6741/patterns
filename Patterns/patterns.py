@@ -15,10 +15,8 @@ for j in range(1,6,1):
 # 4444
 # 55555
 
-for j in range(1,6,1):
-    for i in range(1,j+1,1):
-        print(j,end="")
-    print()
+
+
 
 # 5
 # 44
